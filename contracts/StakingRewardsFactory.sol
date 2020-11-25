@@ -1,7 +1,7 @@
-pragma solidity ^0.5.16;
+pragma solidity ^0.5.4;
 
-import 'openzeppelin-solidity-2.3.0/contracts/token/ERC20/IERC20.sol';
-import 'openzeppelin-solidity-2.3.0/contracts/ownership/Ownable.sol';
+import 'openzeppelin-contracts-2.1.1/contracts/token/ERC20/IERC20.sol';
+import 'openzeppelin-contracts-2.1.1/contracts/ownership/Ownable.sol';
 
 import './StakingRewards.sol';
 
